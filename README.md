@@ -4,7 +4,6 @@
 [![GitHub build status: Quality Assurance](https://img.shields.io/github/actions/workflow/status/QuingKhaos/###NAME###/qa.yml?branch=main&label=QA&style=for-the-badge)](https://github.com/QuingKhaos/###NAME###/actions?query=workflow%3A%22Quality+Assurance%22)
 [![GitHub issues: bugs](https://img.shields.io/github/issues/QuingKhaos/###NAME###/bug?label=Bug%20Reports&style=for-the-badge)](https://github.com/QuingKhaos/###NAME###/issues?q=is%3Aissue%20state%3Aopen%20label%3Abug)
 [![GitHub pull requests](https://img.shields.io/github/issues-pr/QuingKhaos/###NAME###?label=Pull%20Requests&style=for-the-badge)](https://github.com/QuingKhaos/###NAME###/pulls)
-[![Ko-fi](https://img.shields.io/badge/Ko--fi-support%20me-hotpink?logo=kofi&logoColor=white&style=for-the-badge)](https://ko-fi.com/quingkhaos)
 
 # ###TITLE###
 
