@@ -3,10 +3,10 @@
   "title": "###TITLE###",
   "description": "###DESCRIPTION###",
   "author": "QuingKhaos",
-  "homepage": "",
+  "homepage": "https://discord.gg/SYmkaDjFCt",
   "version": "1.0.0",
   "factorio_version": "2.0",
   "dependencies": [
-    "base >= 2.0.0"
+    "base >= 2.0.77"
   ]
 }
