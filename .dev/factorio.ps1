@@ -1,5 +1,5 @@
 Set-Variable -Name workspace -Value $Env:FACTORIO_WORKSPACE
-Set-Variable -Name mod_base -Value $Env:FACTORIO_STEAM_MOD_BASE
+Set-Variable -Name mod_base -Value $Env:FACTORIO_STEAM_MODS_BASE
 Set-Variable -Name package -Value "###NAME###"
 
 Set-Variable -Name version -Value (Get-Content "$workspace\$package\info.json" | ConvertFrom-Json).version
