@@ -11,5 +11,11 @@
 
     "khaosbash",
     "khaoslib"
-  ]
+  ],
+  "package": {
+    "ignore": [
+      "**/*.svg",
+      "**/*.xcf"
+    ]
+  }
 }
