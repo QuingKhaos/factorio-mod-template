@@ -8,7 +8,10 @@
   "factorio_version": "2.1",
   "dependencies": [
     "base",
-    "space-age",
+    "! elevated-rails",
+    "! quality",
+    "! recycler",
+    "! space-age",
 
     "khaosdev",
     "remove-animations",
@@ -16,12 +19,12 @@
     "barrel-stages",
     "barreling-group2",
     "khaosammogroup",
-    "khaosbioprocessinggroup",
-    "khaoscastinggroup",
     "khaoscircuitrygroup",
     "khaosmodulesgroup",
     "khaostransportgroup",
-    "science-tab"
+    "science-tab",
+
+    "###NAME###"
   ],
   "spoiling_required": true
 }

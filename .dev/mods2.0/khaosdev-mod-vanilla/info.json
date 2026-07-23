@@ -8,7 +8,9 @@
   "factorio_version": "2.0",
   "dependencies": [
     "base",
-    "space-age",
+    "! elevated-rails",
+    "! quality",
+    "! space-age",
 
     "khaosdev",
     "BeltsAndMoreAnimationFreeze",
@@ -18,12 +20,12 @@
     "barrel-stages",
     "barreling-group2",
     "khaosammogroup",
-    "khaosbioprocessinggroup",
-    "khaoscastinggroup",
     "khaoscircuitrygroup",
     "khaosmodulesgroup",
     "khaostransportgroup",
-    "science-tab"
+    "science-tab",
+
+    "###NAME###"
   ],
   "spoiling_required": true
 }
