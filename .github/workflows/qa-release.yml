@@ -1,4 +1,4 @@
-name: Release mod
+name: QA // Release
 
 on:
   push:
