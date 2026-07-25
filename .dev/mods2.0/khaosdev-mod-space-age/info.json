@@ -27,5 +27,6 @@
     "science-tab",
 
     "###NAME###"
-  ]
+  ],
+  "space_travel_required": true
 }

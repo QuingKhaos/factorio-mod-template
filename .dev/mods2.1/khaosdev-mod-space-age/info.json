@@ -28,5 +28,6 @@
     "science-tab",
 
     "###NAME###"
-  ]
+  ],
+  "expansion_required": true
 }
