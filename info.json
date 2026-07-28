@@ -10,7 +10,7 @@
     "base >= 2.0.77",
 
     "khaosbash >= 1.2.0",
-    "khaoslib >= 1.17.2"
+    "khaoslib >= 1.18.0"
   ],
   "package": {
     "ignore": [
